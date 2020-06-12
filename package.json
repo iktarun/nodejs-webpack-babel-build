@@ -1,7 +1,7 @@
 {
   "name": "nodejs-express-boilerplate",
   "version": "1.0.0",
-  "description": "basic boilerplate for any node+express project",
+  "description": "basic boilerplate for any node+express+webpack+babel project",
   "main": "index.js",
   "keywords": [],
   "author": "",

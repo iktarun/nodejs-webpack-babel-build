@@ -1,6 +1,6 @@
-# empty-project
+# NodeJs+Express+webpack+babel
 
-Empty project.
+This project is a boilerplate for nodejs express with babel and webpack builder
 
 ## Building and running on localhost
 
